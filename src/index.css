@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.active{
+    border-bottom: rgb(3, 51, 36) solid 3px;
+}
