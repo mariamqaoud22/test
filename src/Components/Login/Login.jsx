@@ -147,14 +147,14 @@ export default function Login() {
             )}
           </button>
          
-          <button
+{/*           <button
             type="button"
             onClick={() => navigate('/ForgetPassword')} 
             className="text-dark bg-rose-700 block  hover:bg-rose-800 focus:ring-4 focus:outline-none focus:ring-rose-300 font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center dark:bg-rose-600 dark:hover:bg-rose-700 dark:focus:ring-rose-800"
           >
            
               "Forget Password"
-          </button>
+          </button> */}
         </form>
       </div>
     </>
